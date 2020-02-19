@@ -1,7 +1,8 @@
 # EVA Phase 2 Assignment 5 
 
 Descreption : Achieve an accuracy of 99.3 in less than 15000 parameters on mnist data using Pytorch\
-Parameters Used : 9,142
+\
+Parameters Used : 9,142\
 Parameters and Hyperparameters
 - Loss Function: Negative Log Likelihood
 - Optimizer: SGD
